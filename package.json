@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-to-vite-migration-example",
+  "name": "boilerplate-vue2-vite",
   "version": "0.1.0",
   "private": true,
   "scripts": {

@@ -1,4 +1,7 @@
-# vue-2-migrate-cli-to-vite
+# boilerplate-vue2-vite
+Boilerplate criado a partir do artigo de migração do Vue CLI para vite do VueSchool.
+
+[How to Migrate from Vue CLI to Vite](https://vueschool.io/articles/vuejs-tutorials/how-to-migrate-from-vue-cli-to-vite/)
 
 ## Project setup
 ```
